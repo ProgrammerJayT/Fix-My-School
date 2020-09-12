@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "933042714268",
+    "firebase_url": "https://fix-my-school.firebaseio.com",
+    "project_id": "fix-my-school",
+    "storage_bucket": "fix-my-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933042714268:android:035efc550bd801766c1f59",
+        "android_client_info": {
+          "package_name": "com.fixmyschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933042714268-vl4lsnqvchq72j5i7iplv5scf8rrhdkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRvVbvkqzDFf0ymkIulaBM4stGjfQRkXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933042714268-vl4lsnqvchq72j5i7iplv5scf8rrhdkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
